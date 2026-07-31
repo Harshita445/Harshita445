@@ -2,7 +2,24 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C2A,50:1B1B3A,100:2D1B4E&height=230&section=header&text=Harshita%20Kumar%20Arora&fontSize=44&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20Thapar%20Institute&descAlignY=58&descSize=16&descColor=E8E8E8"/>
 
-<img src="https://cdn.jsdelivr.net/gh/Harshita445/Harshita445@main/assets/stardust-divider.svg" width="70%"/>
+<svg width="70%" height="50" viewBox="0 0 1200 50">
+  <path d="M20 30 L160 15 L340 35 L520 12 L700 32 L880 18 L1060 30 L1180 20" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.35" fill="none"/>
+  <circle cx="20" cy="30" r="1.5" fill="#F4E5A1"/>
+  <circle cx="160" cy="15" r="2.3" fill="#F4E5A1"/>
+  <circle cx="340" cy="35" r="2" fill="#F4E5A1"/>
+  <circle cx="520" cy="12" r="2.5" fill="#F4E5A1"/>
+  <circle cx="700" cy="32" r="2" fill="#F4E5A1"/>
+  <circle cx="880" cy="18" r="2.3" fill="#F4E5A1"/>
+  <circle cx="1060" cy="30" r="2" fill="#F4E5A1"/>
+  <circle cx="1180" cy="20" r="1.7" fill="#F4E5A1"/>
+  <circle cx="90" cy="12" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="250" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="430" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="610" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="790" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="970" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="1130" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D4AF37&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;AI+%2F+ML+%2F+Computer+Vision;I+build+things+people+actually+use" alt="Typing SVG" />
 
@@ -29,7 +46,24 @@ Most of what I work on sits somewhere between full stack development and applied
 **Right now I'm focused on:** building products that solve real problems instead of collecting demo projects.
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Harshita445/Harshita445@main/assets/stardust-divider.svg" width="70%"/>
+<svg width="70%" height="50" viewBox="0 0 1200 50">
+  <path d="M20 30 L160 15 L340 35 L520 12 L700 32 L880 18 L1060 30 L1180 20" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.35" fill="none"/>
+  <circle cx="20" cy="30" r="1.5" fill="#F4E5A1"/>
+  <circle cx="160" cy="15" r="2.3" fill="#F4E5A1"/>
+  <circle cx="340" cy="35" r="2" fill="#F4E5A1"/>
+  <circle cx="520" cy="12" r="2.5" fill="#F4E5A1"/>
+  <circle cx="700" cy="32" r="2" fill="#F4E5A1"/>
+  <circle cx="880" cy="18" r="2.3" fill="#F4E5A1"/>
+  <circle cx="1060" cy="30" r="2" fill="#F4E5A1"/>
+  <circle cx="1180" cy="20" r="1.7" fill="#F4E5A1"/>
+  <circle cx="90" cy="12" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="250" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="430" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="610" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="790" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="970" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="1130" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+</svg>
 </div>
 
 ## Tech Stack
@@ -59,7 +93,24 @@ Most of what I work on sits somewhere between full stack development and applied
 </div>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Harshita445/Harshita445@main/assets/stardust-divider.svg" width="70%"/>
+<svg width="70%" height="50" viewBox="0 0 1200 50">
+  <path d="M20 30 L160 15 L340 35 L520 12 L700 32 L880 18 L1060 30 L1180 20" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.35" fill="none"/>
+  <circle cx="20" cy="30" r="1.5" fill="#F4E5A1"/>
+  <circle cx="160" cy="15" r="2.3" fill="#F4E5A1"/>
+  <circle cx="340" cy="35" r="2" fill="#F4E5A1"/>
+  <circle cx="520" cy="12" r="2.5" fill="#F4E5A1"/>
+  <circle cx="700" cy="32" r="2" fill="#F4E5A1"/>
+  <circle cx="880" cy="18" r="2.3" fill="#F4E5A1"/>
+  <circle cx="1060" cy="30" r="2" fill="#F4E5A1"/>
+  <circle cx="1180" cy="20" r="1.7" fill="#F4E5A1"/>
+  <circle cx="90" cy="12" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="250" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="430" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="610" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="790" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="970" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="1130" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+</svg>
 </div>
 
 ## Projects
@@ -92,7 +143,24 @@ A timetable companion that compares schedules between friends and finds shared f
 - Makes planning study sessions, group work, and meetups a lot less painful
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Harshita445/Harshita445@main/assets/stardust-divider.svg" width="70%"/>
+<svg width="70%" height="50" viewBox="0 0 1200 50">
+  <path d="M20 30 L160 15 L340 35 L520 12 L700 32 L880 18 L1060 30 L1180 20" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.35" fill="none"/>
+  <circle cx="20" cy="30" r="1.5" fill="#F4E5A1"/>
+  <circle cx="160" cy="15" r="2.3" fill="#F4E5A1"/>
+  <circle cx="340" cy="35" r="2" fill="#F4E5A1"/>
+  <circle cx="520" cy="12" r="2.5" fill="#F4E5A1"/>
+  <circle cx="700" cy="32" r="2" fill="#F4E5A1"/>
+  <circle cx="880" cy="18" r="2.3" fill="#F4E5A1"/>
+  <circle cx="1060" cy="30" r="2" fill="#F4E5A1"/>
+  <circle cx="1180" cy="20" r="1.7" fill="#F4E5A1"/>
+  <circle cx="90" cy="12" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="250" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="430" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="610" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="790" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="970" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="1130" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+</svg>
 </div>
 
 ## GitHub Activity
@@ -113,7 +181,24 @@ A timetable companion that compares schedules between friends and finds shared f
 </div>
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Harshita445/Harshita445@main/assets/stardust-divider.svg" width="70%"/>
+<svg width="70%" height="50" viewBox="0 0 1200 50">
+  <path d="M20 30 L160 15 L340 35 L520 12 L700 32 L880 18 L1060 30 L1180 20" stroke="#D4AF37" stroke-width="0.6" stroke-opacity="0.35" fill="none"/>
+  <circle cx="20" cy="30" r="1.5" fill="#F4E5A1"/>
+  <circle cx="160" cy="15" r="2.3" fill="#F4E5A1"/>
+  <circle cx="340" cy="35" r="2" fill="#F4E5A1"/>
+  <circle cx="520" cy="12" r="2.5" fill="#F4E5A1"/>
+  <circle cx="700" cy="32" r="2" fill="#F4E5A1"/>
+  <circle cx="880" cy="18" r="2.3" fill="#F4E5A1"/>
+  <circle cx="1060" cy="30" r="2" fill="#F4E5A1"/>
+  <circle cx="1180" cy="20" r="1.7" fill="#F4E5A1"/>
+  <circle cx="90" cy="12" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="250" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="430" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="610" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="790" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="970" cy="42" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+  <circle cx="1130" cy="8" r="0.9" fill="#E8E8E8" opacity="0.3"/>
+</svg>
 </div>
 
 ## Connect
