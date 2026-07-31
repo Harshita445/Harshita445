@@ -36,14 +36,9 @@
 <br/>
 
 ## About Me
-
-I'm a Computer Engineering student at **Thapar Institute of Engineering and Technology**. I like building things people actually keep using, not just projects that look good for five minutes in a demo.
-
-Most of what I work on sits somewhere between full stack development and applied AI, usually with a computer vision angle. I care a lot about the small details in a product: how a feature feels the second time someone uses it, not just whether it technically works the first time.
-
-**Interests:** Artificial Intelligence · Machine Learning · Computer Vision · Full Stack Development · Product Development · Open Source · Human-Centered Technology
-
-**Right now I'm focused on:** building products that solve real problems instead of collecting demo projects.
+I'm a Computer Engineering student who enjoys building things and figuring out how they work!!
+Lately, I've been spending most of my time working with web technologies, AI, and computer vision. I like taking an idea from a rough sketch to something people can actually interact with, whether that's a platform, a tool, or just a side project that started from a random thought.
+When I'm not building, I'm usually learning something new, refining old projects, or hyperfixating on a new hobby.
 
 <div align="center">
 <svg width="70%" height="50" viewBox="0 0 1200 50">
